@@ -1,0 +1,9 @@
+body{
+  background-image: url('waldo_background.jpg');
+  background-size:cover;
+}
+img{
+  position: relative;
+  top: 150px;
+  left: 200px;
+}
